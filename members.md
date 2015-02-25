@@ -271,7 +271,7 @@ Format:
 | Tommy Garland | [tommygarland](https://github.com/tommygarland || 
 | Tommy Pedersen | [bodhiBit](https://github.com/bodhiBit) | I have about a lifetime of experience in various programming languages, but none in Git.. |
 | Tomoyuki Katsube | [ka2be](https://github.com/ka2be) |EXPERIENCE:learning Scheme and Python a few years as an amateur.GOALS:enjoy teamwork,write more practical code and readable document(+individually English-Japanese translating).And I like Snufkin.|
-| Tony Simon | [<Wyenot>](https://github.com/<Wyenot>) | I am a computer engineering student and I have experience with C. I feel like my coding skills are lacking and I am looking to improve them. |
+| Tony Simon | [Wyenot](https://github.com/<Wyenot>) | I am a computer engineering student and I have experience with C. I feel like my coding skills are lacking and I am looking to improve them. |
 | Trent Robbins | [robbintt](https://github.com/robbintt) ||
 | Tyler Anton | [mtanton](https://github.com/mtanton) | I am a second year CS student with Java experience. I'm looking to further my knowledge for real world use. |
 | Tyler Zika | [tylerzika](https://github.com/tylerzika) ||
